@@ -1,0 +1,15 @@
+ol--Order list
+ul-->Unorder list
+li-->List
+dt-->Defines a term in a description list
+dd-->Describes the term in a description list
+dl-->Defines a description list
+
+type-->disc,circle,square
+Indicates the numbering type:
+
+'a' indicates lowercase letters,
+'A' indicates uppercase letters,
+'i' indicates lowercase Roman numerals,
+'I' indicates uppercase Roman numerals,
+and '1' indicates numbers (default).
